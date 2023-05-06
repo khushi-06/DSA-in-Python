@@ -1,0 +1,2 @@
+array used majorly used for position
+can be implementated using arry module or using list
