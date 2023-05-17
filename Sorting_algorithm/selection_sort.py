@@ -22,9 +22,11 @@ def selection_sort(A):
  
         
 A=[1,22,3,6,4]
+print("The given array is : " ,A)
 B=selection_sort(A)   
 # Here B is a object that is calling the selection sort function
-print(B)
+
+print("The sorted array is : " ,B)
 
 
 
