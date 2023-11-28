@@ -12,6 +12,9 @@ for i in range(0,shift):
 
 print(arr)
 
+
+
+
 '''
 here we put the first elemnt in the temp and then shift all the othere element and them append that elemnt in the last 
 again 
