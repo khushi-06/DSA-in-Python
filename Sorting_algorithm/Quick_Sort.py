@@ -1,4 +1,3 @@
-# Python program for implementation of Quicksort Sort
 
 # This implementation utilizes pivot as the last element in the nums list
 # It has a pointer to keep track of the elements smaller than the pivot
